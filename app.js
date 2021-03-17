@@ -12,3 +12,4 @@ console.log(`${userName} asked: ${userQuestion}`);
 //Finally, to ensure we only have whole numbers from 0 to 7 we can round down using Math.floor().
 const randomNumber = Math.floor(Math.random() * 8);
 
+let eightBall = '';
