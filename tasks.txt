@@ -37,3 +37,8 @@
     If you’re feeling creative, make your own responses!
 
 8. Write a console.log() to print the Magic Eight Ball’s answer, the value of the eightBall variable.
+
+9. Run your program a few times to see random results appear in the console!
+    If you want extra practice:
+    If you started with a switch statement, convert it to if/else if/else statements.
+    If you started with if/else if/else statements, convert them to a switch statement.
