@@ -15,3 +15,7 @@
     Create another variable, and name it randomNumber. Set it equal to this expression, which uses two methods from the Math library.
     Math.floor(Math.random() * 8);
     Check the hint to learn how it works!
+
+6. Create one more variable named eightBall, and set it equal to an empty string. 
+    We will save a value to this variable in the next steps, 
+    depending on the value of randomNumber.
