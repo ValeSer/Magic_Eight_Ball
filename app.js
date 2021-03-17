@@ -1,4 +1,6 @@
-let userName = '';
-userName === 'Jane'? console.log(`Hello, ${username}!`) : console.log('Hello!'); 
+let userName = 'Jane';
+userName === 'Jane'? console.log(`Hello, ${userName}!`) : console.log('Hello!'); 
 
 const userQuestion = 'Will I get pizza for dinner?';
+
+console.log(`${userName} asked: ${userQuestion}`);
